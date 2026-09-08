@@ -4,7 +4,7 @@ Windows storage cleanup for AI workflows, with reviewable cleanup candidates and
 
 面向 AI 工作流的 Windows 存储清理工具：审阅缓存与旧文件候选，并为支持的清理操作提供恢复功能。
 
-**Current release: 0.2.1 Alpha — 内测便携版。**
+**Current release: [0.2.2 Alpha](https://github.com/tepudu/agents-butler/releases/tag/v0.2.2-alpha) — 内测便携版。**
 
 [Official website / 官网](https://agents-butler.tpoad.com/) · [Downloads / 下载与版本说明](https://agents-butler.tpoad.com/download.html) · [Community / 邀请制社区](https://agents-butler.tpoad.com/community.html)
 
